@@ -1,0 +1,14 @@
+здравейте	hi
+здравейте	hello
+моите	mine
+отвън	outside
+отвън	beyond
+наляво	left
+дванадесет	twelve
+навън	outside
+навън	out
+нашия	our
+петата	fifth
+петдесет	fifty
+шеста	sixth
+мене	me

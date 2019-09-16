@@ -1,0 +1,7 @@
+ottende	eighth
+tusind	thousand
+medmindre	unless
+mhz	mhz
+niende	ninth
+tiende	tenth
+six	six
